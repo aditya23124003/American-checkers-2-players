@@ -7,7 +7,7 @@ import javafx.scene.shape.Ellipse;
 import static org.example.checkers.CheckersApp.TILE_SIZE;
 
 /**
- * @author Almas Baimagambetov (almaslvl@gmail.com)
+ * jatin, aditya, shreyas
  */
 public class Piece extends StackPane {
 
